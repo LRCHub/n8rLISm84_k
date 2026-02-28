@@ -1,0 +1,52 @@
+# SAMSONS – Kenangan Terindah
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:20.55] Aku yang lemah tanpamu
+[00:24.64] Aku yang rentan karena
+[00:28.69] Cinta yang t'lah hilang darimu
+[00:32.94] Yang mampu menyanjungku
+[00:44.44] 
+[00:36.49] Selama mata terbuka
+[00:40.52] Sampai jantung tak berdetak
+[00:44.64] Selama itu pun aku mampu untuk mengenangmu
+[01:05.64] 
+[00:52.68] Darimu (darimu), kutemukan hidupku
+[01:00.26] Bagiku (bagiku), kaulah cinta sejati
+[01:07.23] Yeah, huu, huu (darimu)
+[01:16.23] (Bagiku, engkaulah cinta sejati)
+[01:32.23] 
+[01:23.78] Bila yang tertulis untukku
+[01:28.25] Adalah yang terbaik untukmu
+[01:32.25] 'Kan kujadikan kau kenangan
+[01:36.37] Yang terindah dalam hidupku
+[01:49.87] 
+[01:39.72] Namun takkan mudah bagiku
+[01:44.21] Meninggalkan jejak hidupmu
+[01:48.32] Yang t'lah terukir abadi
+[01:52.05] Sebagai kenangan yang terindah
+[02:07.05] 
+[02:24.27] Oo-hoo, oo-hoo
+[02:32.23] Oo-hoo
+[02:35.23] 
+[02:35.82] Bila yang tertulis untukku
+[02:40.33] Adalah yang terbaik untukmu
+[02:44.21] 'Kan kujadikan kau kenangan
+[02:48.38] Yang terindah dalam hidupku
+[03:01.88] 
+[02:51.82] Namun takkan mudah bagiku
+[02:56.33] Meninggalkan jejak hidupmu
+[03:00.23] Yang t'lah terukir abadi
+[03:04.08] Sebagai kenangan yang terindah
+[03:19.08] 
+[03:07.85] (Bila yang tertulis untukku)
+[03:12.50] (Adalah yang terbaik untukmu)
+[03:16.34] ('Kan kujadikan kau kenangan)
+[03:20.40] (Yang terindah dalam hidupku)
+[03:34.90] 
+[03:23.88] (Namun takkan mudah bagiku)
+[03:28.38] (Meninggalkan jejak hidupku)
+[03:32.48] (Yang t'lah terukir abadi)
+[03:36.00] (Sebagai kenangan yang terindah)
+```
