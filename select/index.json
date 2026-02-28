@@ -1,0 +1,112 @@
+{
+  "version": 1,
+  "base_track": "Kenangan Terindah",
+  "base_artist": "SAMSONS",
+  "createdAt": "2026-02-28T19:12:26.273605Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/01_Kenangan_Terindah_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Samsons",
+      "has_synced": true,
+      "path": "select/02_Kenangan_Terindah_Samsons.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Samsons",
+      "has_synced": true,
+      "path": "select/03_Kenangan_Terindah_Samsons.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Kenangan Terindah (Official Music Video)",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/04_Kenangan_Terindah_(Official_Music_Video)_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/05_Kenangan_Terindah_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Mahen",
+      "has_synced": false,
+      "path": "select/06_Kenangan_Terindah_Mahen.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Kenangan Terindah (Official Music Video)",
+      "artist": "Video • SAMSONS",
+      "has_synced": true,
+      "path": "select/07_Kenangan_Terindah_(Official_Music_Video)_Video_•_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/08_Kenangan_Terindah_SAMSONS.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Kartika Wang",
+      "has_synced": true,
+      "path": "select/09_Kenangan_Terindah_Kartika_Wang.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Vicky Shu",
+      "has_synced": false,
+      "path": "select/10_Kenangan_Terindah_Vicky_Shu.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Kenangan Terindah",
+      "artist": "Setia Band",
+      "has_synced": true,
+      "path": "select/11_Kenangan_Terindah_Setia_Band.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Kenangan Terindah (Lyric Video)",
+      "artist": "SAMSONS",
+      "has_synced": true,
+      "path": "select/12_Kenangan_Terindah_(Lyric_Video)_SAMSONS.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Kenangan Terindah",
+      "artist": "Samsons",
+      "has_synced": false,
+      "path": "select/pl_01_Kenangan_Terindah_Samsons.txt"
+    }
+  ]
+}
